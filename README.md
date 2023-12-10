@@ -1,6 +1,6 @@
 # Memory-induced long-range order in neural activity
 This repository contains source code for reproducing the simulation results in the paper *Memory-induced long-range order in neural activity*. [Paper coming (very) soon!](https://github.com/JaySun1207/memory_induced_LRO)
-Paper coming (very) soon! 
+
 
 Requirements: NumPy 
 
