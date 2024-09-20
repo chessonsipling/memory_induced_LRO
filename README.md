@@ -1,5 +1,5 @@
 # Memory in neural activity: long-range order without criticality
-This repository contains source code for reproducing the simulation results in the paper *Memory-induced long-range order in neural activity*. [Paper coming (very) soon!](https://github.com/JaySun1207/memory_induced_LRO)
+This repository contains source code for reproducing the simulation results in the paper *Memory in neural activity: long-range order without criticality*. [Paper coming (very) soon!](https://github.com/JaySun1207/memory_induced_LRO)
 
 
 Requirements: NumPy >= 1.23.1, SciPy >= 1.13.1, PyTorch >= 2.3.0
