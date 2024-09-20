@@ -42,7 +42,7 @@ for td_idx, td in enumerate(tds):
     figs = [fig1, fig2]
     axs = [ax1, ax2]
     for L_idx, L in enumerate(Ls):
-        folder = f'/home/yuz092/Jay/correlation_length_no_limit/td_{td}'
+        folder = f'../correlation_length_no_limit/td_{td}'
 
         td_string = td_strings[td_idx]
         size_vs_duration = []
